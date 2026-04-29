@@ -1,0 +1,1 @@
+{\n  \"name\": \"funspaces\",\n  \"version\": \"1.0.0\",\n  \"private\": true,\n  \"dependencies\": {\n    \"react\": \"^18.0.0\",\n    \"react-dom\": \"^18.0.0\",\n    \"axios\": \"^0.21.1\"\n  }\n}
